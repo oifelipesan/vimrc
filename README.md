@@ -1,13 +1,15 @@
-# .vimrc
+# .vimrc</br>
+
+# Descrição
+
+  Esse arquivo é uma sugestão para a configuração pessoal do vim ~/.vimrc</br>
+  Onde poderão adicionar ou remover linhas de configuração conforme seu gosto</br>
 
 # Detalhes original
 
-  ===================================================================================</br>
-  DESCRIPTION:  Sugestão para um arquivo de configuração pessoal ~/.vimrc</br>
-  AUTHOR:  Dr.-Ing. Fritz Mehner</br>
-  CREATED:  04.04.2009</br>
-  REVISION:  $Id: customization.vimrc,v 1.1 2012/02/11 16:37:29 mehner Exp $</br>
-===================================================================================</br>
+  AUTOR:  Dr.-Ing. Fritz Mehner</br>
+  CRIADO:  04.04.2009</br>
+  REVISÂO:  $Id: customization.vimrc,v 1.1 2012/02/11 16:37:29 mehner Exp $</br>
 
 # Minhas Modificações
 
@@ -22,3 +24,9 @@
   Para quem estiver entereçado no autor e gostariam de conhecer o trabalho do mesmo</br>
   deixarei a pagina do github do mesmo</br>
   https://github.com/WolfgangMehner/</br>
+  
+# fsantos91
+
+  E-mail: felipesan.cwb@gmail.com</br>
+  Blog: felipesanblog.wordpress.com</br>
+  GitHub: https://github.com/fsantos91/</br>
