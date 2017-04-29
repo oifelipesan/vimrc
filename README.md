@@ -26,5 +26,5 @@
 # fsantos91
 
   E-mail: felipesan.cwb@gmail.com</br>
-  Blog: felipesanblog.wordpress.com</br>
+  Blog: https://felipesanblog.wordpress.com</br>
   GitHub: https://github.com/fsantos91/</br>
