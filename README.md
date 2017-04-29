@@ -1,5 +1,3 @@
-# .vimrc</br>
-
 # Descrição
 
   Esse arquivo é uma sugestão para a configuração pessoal do vim ~/.vimrc</br>
