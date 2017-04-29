@@ -22,4 +22,3 @@
   Para quem estiver entereçado no autor e gostariam de conhecer o trabalho do mesmo</br>
   deixarei a pagina do github do mesmo</br>
   https://github.com/WolfgangMehner/</br>
-# vimrc
