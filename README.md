@@ -14,8 +14,8 @@
   Primeiramente removi o que não iria utilizar</br>
   Fiz a tradução dos comentarios para Português</br>
   Adicionei algumas configurações que ja utilizava</br>
-  Criei alguns atalhos como F2- Sair(:q), F3- Forçar saida(:q!), F4- Salvar(:w) e</br>
-  F5- Salvar e sair(:x ou :wq)</br>
+  Criei alguns atalhos como F2- Salvar(:w), F3- Salvar e sair(:x ou :wq), </br>
+  F4- Sair(:q) e F5- Forçar saida(:q!)</br>
   
 # Mehner
 
