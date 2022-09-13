@@ -19,12 +19,11 @@
   
 # Mehner
 
-  Para quem estiver entereçado no autor e gostariam de conhecer o trabalho do mesmo</br>
-  deixarei a pagina do github do mesmo</br>
+  Para quem estiver entereçado no autor e gostariam de conhecer seu trabalho</br>
+  deixarei a página do github do mesmo</br>
   https://github.com/WolfgangMehner/</br>
   
 # fsantos91
 
   E-mail: felipesan.cwb@gmail.com</br>
-  Blog: https://felipesanblog.wordpress.com</br>
-  GitHub: https://github.com/fsantos91/</br>
+  GitHub: https://github.com/oifelipesan</br>
